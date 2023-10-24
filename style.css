@@ -1,3 +1,17 @@
-:root{
-    background-color: rgb(0, 13, 83);
-    --black:var(--black)
+.cabecalho{
+    background-color: rgb(83, 0, 0);
+    color: black;
+    font-display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.imagem{
+
+    width: 45%;
+}
